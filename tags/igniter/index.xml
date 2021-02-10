@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>igniter on Here be dragons</title>
-    <link>davidthefighter.github.io/tags/igniter/</link>
+    <link>/tags/igniter/</link>
     <description>Recent content in igniter on Here be dragons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="davidthefighter.github.io/tags/igniter/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/igniter/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Igniter Prototype</title>
-        <link>davidthefighter.github.io/posts/igniter/</link>
+        <link>/posts/igniter/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>hbddallen@gmail.com (David Allen)</author>
         <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>davidthefighter.github.io/posts/igniter/</guid>
+        <guid>/posts/igniter/</guid>
         <description>Time I finally posted something :D
 I haven&amp;rsquo;t gotten as much done as I&amp;rsquo;d hoped, but I have managed to hack together design a prototype igniter to test out some systems and get a feel for everything. I figure I&amp;rsquo;d start with the igniter as it would be the simplest (and safest) system to prototype, and there&amp;rsquo;s actually flames involved!
 Reasoning So why did I choose to do the igniter first?</description>

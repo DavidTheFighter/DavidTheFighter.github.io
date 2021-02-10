@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Here be dragons</title>
-    <link>davidthefighter.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Here be dragons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="davidthefighter.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>igniter</title>
-        <link>davidthefighter.github.io/tags/igniter/</link>
+        <link>/tags/igniter/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>hbddallen@gmail.com (David Allen)</author>
         
-        <guid>davidthefighter.github.io/tags/igniter/</guid>
+        <guid>/tags/igniter/</guid>
         <description></description>
         
         <dc:creator>David Allen</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>intro</title>
-        <link>davidthefighter.github.io/tags/intro/</link>
+        <link>/tags/intro/</link>
         <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
         <author>hbddallen@gmail.com (David Allen)</author>
         
-        <guid>davidthefighter.github.io/tags/intro/</guid>
+        <guid>/tags/intro/</guid>
         <description></description>
         
         <dc:creator>David Allen</dc:creator>
