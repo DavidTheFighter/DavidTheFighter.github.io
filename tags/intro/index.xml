@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>intro on Here be dragons</title>
-    <link>/tags/intro/</link>
+    <link>davidthefighter.github.io/tags/intro/</link>
     <description>Recent content in intro on Here be dragons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="davidthefighter.github.io/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Uh oh, I think I&#39;m starting a blog</title>
-        <link>/posts/intro/</link>
+        <link>davidthefighter.github.io/posts/intro/</link>
         <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
         <author>hbddallen@gmail.com (David Allen)</author>
         <atom:modified>Sun, 27 Sep 2020 00:00:00 +0000</atom:modified>
-        <guid>/posts/intro/</guid>
+        <guid>davidthefighter.github.io/posts/intro/</guid>
         <description>For better or for worse, I&amp;rsquo;ve decided to start a blog. I like doing just about anything technical that doesn&amp;rsquo;t involve biology (I still have the battle scars from freshman biology), and this blog should give me a chance to spread my ramblings. It might end up being pretty random, but hey, normal is boring right?
 My current main project is to create a liquid fueled rocket engine. Did I mention I&amp;rsquo;m nuts?</description>
         

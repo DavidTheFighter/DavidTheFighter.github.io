@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Here be dragons</title>
-    <link>/series/</link>
+    <link>davidthefighter.github.io/series/</link>
     <description>Recent content in Series on Here be dragons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>hbddallen@gmail.com (David Allen)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="davidthefighter.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -3,41 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>davidthefighter.github.io/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/posts/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/posts/resume/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/igniter/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/posts/igniter/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/intro/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/intro/</loc>
+    <loc>davidthefighter.github.io/posts/intro/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/resume/</loc>
+    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/intro/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/archive/</loc>
+    <loc>davidthefighter.github.io/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>davidthefighter.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>davidthefighter.github.io/series/</loc>
   </url>
   
 </urlset>
