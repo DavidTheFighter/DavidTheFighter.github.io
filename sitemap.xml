@@ -3,61 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/blog/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/resume/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/igniter/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/igniter/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/intro/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/intro/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <loc>davidthefighter.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resume/</loc>
-    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+    <loc>davidthefighter.github.io/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <loc>davidthefighter.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>davidthefighter.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>davidthefighter.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/blog/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/blog/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>davidthefighter.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
